@@ -3,7 +3,9 @@
 
 This project implements a user authentication and role-based access control system using Django REST Framework (DRF) and JWT for authentication.
 
-This is a short video demonstration of the API for the app: [API Demonstration Video](your_video_link_here).
+This is a short video demonstration of the API for the app: [API Demonstration Video](file:///home/ritik360/Videos/Screencasts/rbac.webm)
+)
+_link_here).
 ## Features
 
 1. **User Registration**: Allows new users to register.
